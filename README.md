@@ -1,7 +1,10 @@
 # jeyhunrzayev
+<style>
 #mb {
   margin-bottom: 25px;
 }
+</style>
+
 <h1 align="center">Hi 👋, I'm Jeyhun Rzayev</h1>
 <h3 align="center">A frontend developer from Baku</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="">
@@ -34,9 +37,7 @@ src="https://img.shields.io/github/followers/Ceyhun1999?logo=github&style=for-th
 
 
 <p><img align="left" id="mb" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceyhun1999&show_icons=true&locale=en&layout=compact" alt="ceyhun1999" /></p>
-<style>
 
-</style>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhun1999&show_icons=true&locale=en" alt="ceyhun1999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhun1999&" alt="ceyhun1999" /></p>
