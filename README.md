@@ -1,7 +1,7 @@
 <img align="center" alt="banner"  src="assets/banner (1).png" alt="">
 
 <h1 align="center">👋 I'm frontend developer from Baku</h1>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceyhun1999&label=Profile%20views&color=0e75b6&style=flat" alt="ceyhun1999" /> </p>
 
 - 🔭 I’m currently working on **own projects**
