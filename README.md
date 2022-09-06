@@ -20,8 +20,9 @@ src="https://img.shields.io/github/followers/Ceyhun1999?logo=github&style=for-th
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Ceyhun1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="rzayev__19" height="30" width="40" /></a>
-<a href="https://vk.com/rzayev__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rzayevceyhun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rzayevceyhun/" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2021/06/Vkontakte_Logo_2016.svg" alt="www.linkedin.com/in/rzayevceyhun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rzayevceyhun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rzayevceyhun" height="30" width="40" /></a>
+
+<a href="https://vk.com/rzayev__19" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2021/06/Vkontakte_Logo_2016.svg" alt="www.linkedin.com/in/rzayevceyhun" height="30" width="40" /></a>
 <a href=https://www.facebook.com/profile.php?id=100004671976974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ceyhun rzayev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rzayev__19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzayev__19" height="30" width="40" /></a>
 </p>
