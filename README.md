@@ -1,6 +1,6 @@
 # jeyhunrzayev
 
-
+<img align="center" alt="banner"  src="assets/banner (1).png" alt="">
 <h1 align="center">Hi 👋, I'm Jeyhun Rzayev</h1>
 <h3 align="center">A frontend developer from Baku</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="">
