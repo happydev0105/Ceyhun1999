@@ -25,7 +25,7 @@
   - Bachelor of ASOIU
   - Coursera Certificates
     - FRONTEND-DEVELOPER (Algorithmics)
-    - FRONTEND-DEVELOPER (Div ACademy)
+    - FRONTEND-DEVELOPER (Div Academy)
     - HTML/CSS (AzTU)
 
 ### 📱 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎:
