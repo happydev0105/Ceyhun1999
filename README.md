@@ -17,7 +17,7 @@
  </div>  
  <div>
   <img src="https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%23323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/photopea-%23323330.svg?style=for-the-badge&logo=photopea&logoColor=white">
  </div> 
 
 &nbsp;  
