@@ -33,7 +33,7 @@
 <a href="https://wa.me/994519993348" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://t.me/Jeyhun_Rzayev" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rzayevceyhun/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.instagram.com/rzayev__19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/rzayev__19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
                                                                 
 
 <a href="https://github.com/Ceyhun1999" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceyhun1999&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
