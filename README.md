@@ -29,7 +29,7 @@
     - Frontend Development (Div Academy)
     - HTML/CSS (AzTU)
 
-### 📱 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎:
+### 📱 Contact 𝚖𝚎:
 <a href="mailto:ceyhun.rzayeev@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://wa.me/994519993348" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://t.me/Jeyhun_Rzayev" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a>
