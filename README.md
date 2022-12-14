@@ -23,9 +23,9 @@
 &nbsp;  
 ### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
   - Bachelor of ASOIU
-  - Coursera Certificates
-    - FRONTEND-DEVELOPER (Algorithmics)
-    - FRONTEND-DEVELOPER (Div Academy)
+  - Courses
+    - Frontend Development (Algorithmics)
+    - Frontend Development (Div Academy)
     - HTML/CSS (AzTU)
 
 ### 📱 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎:
