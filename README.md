@@ -9,10 +9,11 @@
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </div> 
 <div>
   <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
  </div>  
  <div>
